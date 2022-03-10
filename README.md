@@ -40,7 +40,9 @@ Repository created for all Windows Guides and Scripts related to Ricing on Windo
 			- Change "[your-font_name-here]" into your target font name
 				> Examples:
 					- Hack Nerd Font
+
 					- Hack Nerd Font Mono
+
 		- Restart Computer for font change to take effect
 	
 		- To change your fonts back to system default
