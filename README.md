@@ -12,9 +12,9 @@ Repository created for all Windows Guides and Scripts related to Ricing on Windo
 
 ## File Structure
 - Root
-    > [Fonts](Fonts)
-	- Hack-v2.1.0
-    > [registry-scripts](registry-scripts)
+	- [Fonts](Fonts)
+		- Hack-v2.1.0
+	- [registry-scripts](registry-scripts)
 
 ## Obtaining
 
