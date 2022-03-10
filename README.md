@@ -34,16 +34,16 @@ Repository created for all Windows Guides and Scripts related to Ricing on Windo
 ## Usage
 
 - Fonts
-    - To change fonts
-    	- Copy your fonts from your folder and paste into 'C:/Windows/Fonts'
-    	- Edit Registry Editor Script 'change-to-personal-font.reg'
-		- Change "[your-font_name-here]" into your target font name
-			> Examples:
-				- Hack Nerd Font
-				- Hack Nerd Font Mono
-	- Restart Computer for font change to take effect
-
-    - To change your fonts back to system default
-	- Run Registry Editor Script 'restore-system-font.reg'
-	- Restart Computer for font change to take effect
+	- To change fonts
+		- Copy your fonts from your folder and paste into 'C:/Windows/Fonts'
+		- Edit Registry Editor Script 'change-to-personal-font.reg'
+			- Change "[your-font_name-here]" into your target font name
+				> Examples:
+					- Hack Nerd Font
+					- Hack Nerd Font Mono
+		- Restart Computer for font change to take effect
+	
+		- To change your fonts back to system default
+			- Run Registry Editor Script 'restore-system-font.reg'
+			- Restart Computer for font change to take effect
 
